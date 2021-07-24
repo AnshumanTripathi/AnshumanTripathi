@@ -11,4 +11,6 @@ Hi, I am Anshuman Tripathi. I am a DevOps Engineer at [Clover Networks Inc.](htt
 - [Linkedin](https://www.linkedin.com/in/anshumantripathi09/)
 
 
-[![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshumanTripathi&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshumanTripathi&count_private=true&theme=dark)](https://coderstats.net/github/#AnshumanTripathi)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshumanTripathi&hide=css,html&layout=compact)](https://coderstats.net/github/#AnshumanTripathi)
