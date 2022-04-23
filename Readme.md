@@ -4,7 +4,8 @@ Hi, I am Anshuman Tripathi. I am a DevOps Engineer at [Clover Networks Inc.](htt
 
 ## My 2022 Goals
 - [ ] Gain more experience with Kubernetes.
-- [ ] More practice on problem solving and algorithms
+- [ ] More practice on problem solving and algorithms.
+- [ ] Open source a project.
 
 ## Connect with me
 - [Twitter](https://twitter.com/anshumant09)
