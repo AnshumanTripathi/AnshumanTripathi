@@ -2,9 +2,9 @@
 
 Hi, I am Anshuman Tripathi. I am a DevOps Engineer at [Clover Networks Inc.](https://www.clover.com/)
 
-## My 2021 Goals
-- [X] Contribute more to open source.
-- [X] Gain experience with more infrastructure technologies such as Terraform and Kubernetes
+## My 2022 Goals
+- [ ] Gain more experience with Kubernetes.
+- [ ] More practice on problem solving and algorithms
 
 ## Connect with me
 - [Twitter](https://twitter.com/anshumant09)
