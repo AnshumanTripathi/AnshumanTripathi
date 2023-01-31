@@ -1,6 +1,6 @@
 # Anshuman Tripathi
 
-Hi, I am Anshuman Tripathi. I am a DevOps Engineer at [Clover Networks Inc.](https://www.clover.com/)
+Hi, I am Anshuman Tripathi. I am a Platform and DevOps Engineer at [Clover Networks Inc.](https://www.clover.com/)
 
 ## My 2023 Goals
 - [ ] Gain more experience with Kubernetes.
