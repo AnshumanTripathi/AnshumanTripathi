@@ -1,6 +1,6 @@
 # Anshuman Tripathi
 
-Hi, I am Anshuman Tripathi. I am a Platform and DevOps Engineer at [Clover Networks Inc.](https://www.clover.com/)
+Hi, I am Anshuman Tripathi. I am a Staff Cloud Engineer at [Harness](https://www.harness.io/)
 
 ## My 2024 Goals
 - [x] Gain more experience with Kubernetes.
