@@ -2,11 +2,9 @@
 
 Hi, I am Anshuman Tripathi. I am a Staff Cloud Engineer at [Harness](https://www.harness.io/)
 
-## My 2024 Goals
-- [x] Gain more experience with Kubernetes.
-- [x] More practice on problem solving and algorithms.
-- [x] Open source a project.
-- [X] Create my own blog hosted on Github Pages
+## My 2025 Goals
+- [x] Contribute to Kuberetes.
+- [x] Delve into Kubernetes security.
 
 ## Connect with me
 - [Blog](https://anshumantripathi.com/blog)
