@@ -48,7 +48,3 @@ Building scalable cloud infrastructure and contributing to the cloud-native ecos
 ## Github Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnshumanTripathi&show_icons=true&include_all_commits=false)
-
-## Github Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AnshumanTripathi&theme=dark)
