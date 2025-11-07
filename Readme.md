@@ -1,12 +1,12 @@
 # Anshuman Tripathi
 
 ## 👋 Hi, I'm Anshuman Tripathi
-Staff Cloud Engineer at Harness | Kubernetes Enthusiast | DevOps Expert
+Senior Staff Software Engineer @ Zscaler | Kubernetes Enthusiast | DevOps Expert
 
 Building scalable cloud infrastructure and contributing to the cloud-native ecosystem.
 
 ## 🏢 Currently Working At
-[![Harness](https://img.shields.io/badge/Staff%20Cloud%20Engineer-Harness-0084FF?style=for-the-badge)](https://harness.io/)
+[![Zscaler](https://img.shields.io/badge/Senior%20Staff%20Software%20Engineer-Zscaler-0084FF?style=for-the-badge)](https://www.zscaler.com/)
 
 ## 🛠️ Tech Stack
 
