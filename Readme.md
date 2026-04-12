@@ -43,8 +43,8 @@ Building scalable cloud infrastructure and contributing to the cloud-native ecos
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshumanTripathi&layout=compact&theme=dark&include_all_commits=false&hide=html,css,javascript,scss&exclude_repo=MobileSensorCloudEngine,ShoppingMallLoyalty,FirebaseAndroid,FlipkartAutomation,CampusMapApp,FirebaseAndroid,iReport,MathQuizApp,KafkaConnectJDBC,JavaWebServer,RxJavaQuering)
+![Top Languages](https://stats.anshumantripathi.dev/api/top-langs/?username=AnshumanTripathi&layout=compact&theme=dark&include_all_commits=false&hide=html,css,javascript,scss)
 
 ## Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnshumanTripathi&show_icons=true&include_all_commits=false)
+![GitHub Stats](https://stats.anshumantripathi.dev/api?username=AnshumanTripathi&show_icons=true&include_all_commits=false)
