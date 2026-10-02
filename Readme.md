@@ -29,10 +29,6 @@ Building scalable cloud infrastructure and contributing to the cloud-native ecos
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## My 2025 Goals
-- [x] Contribute to Kubernetes.
-- [x] Delve into Kubernetes security.
-
 ## Connect with me
 - [Blog](https://anshumantripathi.com/blog)
 - [Medium](https://medium.com/@anshumantripathi)
